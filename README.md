@@ -48,8 +48,8 @@
 <h2>◒ GitHub pulse</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuomuAnshi&show_icons=true&hide_border=true&bg_color=00000000&title_color=D9F85C&text_color=C4CAD9&icon_color=54D6D2&include_all_commits=true&count_private=true&rank_icon=github" alt="RuomuAnshi GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuomuAnshi&layout=compact&hide_border=true&bg_color=00000000&title_color=D9F85C&text_color=C4CAD9&langs_count=8" alt="RuomuAnshi most used languages" width="41%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RuomuAnshi&show_icons=true&hide_border=true&bg_color=00000000&title_color=D9F85C&text_color=C4CAD9&icon_color=54D6D2&include_all_commits=true&count_private=true&rank_icon=github" alt="RuomuAnshi GitHub stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RuomuAnshi&layout=compact&hide_border=true&bg_color=00000000&title_color=D9F85C&text_color=C4CAD9&langs_count=8" alt="RuomuAnshi most used languages" width="41%" />
 </div>
 
 <div align="center">

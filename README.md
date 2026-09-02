@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuomuAnshi&bg_color=00000000&color=C4CAD9&line=54D6D2&point=D9F85C&area_color=18233A&area=true&hide_border=true&custom_title=Contribution%20rhythm" alt="RuomuAnshi contribution rhythm" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RuomuAnshi&theme=github_dark" alt="RuomuAnshi contribution rhythm and profile details" width="96%" />
 </div>
 
 <br />

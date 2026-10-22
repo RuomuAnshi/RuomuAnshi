@@ -38,6 +38,35 @@
 
 <h2>⌁ Selected signals</h2>
 
+<!-- PROJECTS:START -->
+<ul>
+<li><a href="https://github.com/RuomuAnshi/StoryCode"><strong>StoryCode</strong></a> — 持续构建中。<br /><sub>TypeScript · ★ 0 · 最近推送 2026-10-22</sub></li>
+<li><a href="https://github.com/RuomuAnshi/waveMotion"><strong>waveMotion</strong></a> — 持续构建中。<br /><sub>TypeScript · ★ 1 · 最近推送 2026-10-19</sub></li>
+<li><a href="https://github.com/RuomuAnshi/blenderTool"><strong>blenderTool</strong></a> — 持续构建中。<br /><sub>Python · ★ 1 · 最近推送 2026-10-18</sub></li>
+<li><a href="https://github.com/RuomuAnshi/MMDLookStudio"><strong>MMDLookStudio</strong></a> — 为blender做的mmd预设插件<br /><sub>Python · ★ 0 · 最近推送 2026-10-06</sub></li>
+<li><a href="https://github.com/RuomuAnshi/mmdTransplant"><strong>mmdTransplant</strong></a> — 持续构建中。<br /><sub>Python · ★ 17 · 最近推送 2026-10-03</sub></li>
+</ul>
+<!-- PROJECTS:END -->
+
+<h2>◷ Recent activity</h2>
+
+<!-- ACTIVITY:START -->
+<ul>
+<li><sub>2026-10-21</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/StoryCode">RuomuAnshi/StoryCode</a></li>
+<li><sub>2026-10-18</sub> · 创建仓库或分支 · <a href="https://github.com/RuomuAnshi/waveMotion">RuomuAnshi/waveMotion</a></li>
+<li><sub>2026-10-18</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/waveMotion">RuomuAnshi/waveMotion</a></li>
+<li><sub>2026-10-18</sub> · 创建仓库或分支 · <a href="https://github.com/RuomuAnshi/waveMotion">RuomuAnshi/waveMotion</a></li>
+<li><sub>2026-10-18</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/waveMotion">RuomuAnshi/waveMotion</a></li>
+<li><sub>2026-10-18</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/blenderTool">RuomuAnshi/blenderTool</a></li>
+</ul>
+<!-- ACTIVITY:END -->
+
+<!-- 每天北京时间 08:00 自动更新以上两个区域；数据不变时不提交。
+在 Actions → Update public profile → Run workflow 可手动刷新。
+本地运行：python3 scripts/update_profile.py，可选 GH_TOKEN 环境变量。
+项目按最近推送排序，排除 Fork、归档和主页仓库；动态排除主页自身。
+GitHub 定时任务和公开事件可能延迟。 -->
+
 
 <div align="center">
   <a href="https://github.com/RuomuAnshi?tab=repositories">

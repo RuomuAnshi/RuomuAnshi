@@ -44,7 +44,7 @@
 <li><a href="https://github.com/RuomuAnshi/waveMotion"><strong>waveMotion</strong></a> — 持续构建中。<br /><sub>TypeScript · ★ 1 · 最近推送 2026-10-19</sub></li>
 <li><a href="https://github.com/RuomuAnshi/blenderTool"><strong>blenderTool</strong></a> — 持续构建中。<br /><sub>Python · ★ 1 · 最近推送 2026-10-18</sub></li>
 <li><a href="https://github.com/RuomuAnshi/MMDLookStudio"><strong>MMDLookStudio</strong></a> — 为blender做的mmd预设插件<br /><sub>Python · ★ 0 · 最近推送 2026-10-06</sub></li>
-<li><a href="https://github.com/RuomuAnshi/mmdTransplant"><strong>mmdTransplant</strong></a> — 持续构建中。<br /><sub>Python · ★ 17 · 最近推送 2026-10-03</sub></li>
+<li><a href="https://github.com/RuomuAnshi/mmdTransplant"><strong>mmdTransplant</strong></a> — 持续构建中。<br /><sub>Python · ★ 18 · 最近推送 2026-10-03</sub></li>
 </ul>
 <!-- PROJECTS:END -->
 

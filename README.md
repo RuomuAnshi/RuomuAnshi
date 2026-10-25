@@ -52,10 +52,10 @@
 
 <!-- ACTIVITY:START -->
 <ul>
+<li><sub>2026-10-24</sub> · 收藏项目 · <a href="https://github.com/whyever77/dafeiyu-astrbot">whyever77/dafeiyu-astrbot</a></li>
+<li><sub>2026-10-24</sub> · 收藏项目 · <a href="https://github.com/SAKURAfan1023/dafeiyu-bot">SAKURAfan1023/dafeiyu-bot</a></li>
 <li><sub>2026-10-22</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/StoryCode">RuomuAnshi/StoryCode</a></li>
 <li><sub>2026-10-21</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/StoryCode">RuomuAnshi/StoryCode</a></li>
-<li><sub>2026-10-18</sub> · 创建仓库或分支 · <a href="https://github.com/RuomuAnshi/waveMotion">RuomuAnshi/waveMotion</a></li>
-<li><sub>2026-10-18</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/waveMotion">RuomuAnshi/waveMotion</a></li>
 <li><sub>2026-10-18</sub> · 创建仓库或分支 · <a href="https://github.com/RuomuAnshi/waveMotion">RuomuAnshi/waveMotion</a></li>
 <li><sub>2026-10-18</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/waveMotion">RuomuAnshi/waveMotion</a></li>
 </ul>

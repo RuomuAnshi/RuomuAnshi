@@ -52,7 +52,7 @@
 
 <!-- ACTIVITY:START -->
 <ul>
-<li><sub>2026-11-01</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/GameNarrativeStudio">RuomuAnshi/GameNarrativeStudio</a></li>
+<li><sub>2026-11-07</sub> · 收藏项目 · <a href="https://github.com/GenielabsOpenSource/spine-animation-ai">GenielabsOpenSource/spine-animation-ai</a></li>
 <li><sub>2026-11-01</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/GameNarrativeStudio">RuomuAnshi/GameNarrativeStudio</a></li>
 <li><sub>2026-11-01</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/GameNarrativeStudio">RuomuAnshi/GameNarrativeStudio</a></li>
 <li><sub>2026-11-01</sub> · 推送代码 · <a href="https://github.com/RuomuAnshi/GameNarrativeStudio">RuomuAnshi/GameNarrativeStudio</a></li>
